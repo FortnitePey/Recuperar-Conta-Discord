@@ -20,7 +20,7 @@ seu discord tenha dado algum erro, mas você permaneceu logado, não se preocupe
 discord, e em seu gerenciador de tarefas, finalize todas as tarefas do discord, todos
 eles usam o nome 'discord'
 
-7. refaça o paço 1. 2. 3., cole todos os seus arquivos e pastas do seu backup na pasta discord dentro de "Roaming"
+7. refaça o passo 1. 2. 3., cole todos os seus arquivos e pastas do seu backup na pasta discord dentro de "Roaming"
 
 8. aperte com o botao direito do mouse em sua area de trabalho e clique em "atualizar"
 
